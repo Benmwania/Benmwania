@@ -1,12 +1,12 @@
 
 Hey there! 👋 Welcome to my GitHub profile! I'm Benjamin Mwania, a passionate university student specializing in Cyber Security and web programming.  I'm excited to share my projects, code snippets, and learnings with you. Let's dive into the world of cybersecurity together and web programming
 
-About Me
+**About Me**
 Currently pursuing my degree in Cyber Security at Kabarak university
  Enthusiastic about all things related to information security and ethical hacking
  Constantly seeking opportunities to learn and expand my knowledge in this field
 Advocate for online privacy and data protection
-What I'm Working On
+**What I'm Working On**
 I'm actively working on several exciting projects related to cybersecurity. Here are a few of them:
 
  Secure Network Communication: Developing a secure communication protocol to protect sensitive data during transmission.
